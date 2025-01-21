@@ -1,3 +1,3 @@
-# Zero-Downtime Deployment
+CI-CD Git Zero Downtime
 
-This repository contains the setup for deploying a Flask-based web application with zero-downtime using GitLab CI/CD and Kubernetes.
+Repo ini menggunakan aplikasi web berbasis Flask untuk melakukan uji coba script
